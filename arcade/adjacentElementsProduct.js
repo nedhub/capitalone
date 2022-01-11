@@ -10,6 +10,9 @@
 
 
 
+//reminder convert to python code without using numpy library.
+
+
 function solution(inputArray) {
     let max = -Infinity;
         for (let i = 1; i < inputArray.length; i++) {
